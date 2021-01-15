@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
         url = findViewById(R.id.url);
         Mainbutton = findViewById(R.id.mainbutton);
         spinner = findViewById(R.id.spin);
+        output = findViewById(R.id.output);
+
+
 
     }
 }
